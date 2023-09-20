@@ -2,6 +2,7 @@
 This application is a simple login interface and account creation interface
 In addition to a welcome page containing the user name and account.
 The nice thing about this application is also that the user names are shown along with the status of each user, whether he is online or offline, using Socket.io library.
+Please read the project Node-JS-Server
 
 # Getting Started with Create React App
 
